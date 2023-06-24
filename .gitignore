@@ -1,0 +1,5 @@
+# Ignore pycache folders
+**__pycache__
+# Ignore venv
+venvName
+.vscode
