@@ -1,5 +1,5 @@
 # Ignore pycache folders
-**__pycache__
+**__pycache__/
 # Ignore venv
-venvName
-.vscode
+venvName/
+.vscode/
